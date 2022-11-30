@@ -1,4 +1,4 @@
-### Hi, my name is Jad Lebchiri👋
+### Hi, my name is Jad L👋
 
 ___
 
