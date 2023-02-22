@@ -6,4 +6,4 @@ I'm a 20 year old third-year student at University of Paris 1 Panthéon-Sorbonne
 
 
 - 📫 Reach me on discord : Jad#3373
-- 🔭 Currently working on : Wesbite built on symfony
+- 🔭 Currently working on : Wesbite built on symfony | Plugin built in Java
