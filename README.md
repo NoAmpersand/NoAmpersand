@@ -6,4 +6,4 @@ I'm a 20 year old third-year student at University of Paris 1 Panthéon-Sorbonne
 
 
 - 📫 Reach me on discord : Jad#3373
-- 🔭 Currently working on : Learning Solidity and blockchain developement with Python | Coding a website using Astro for internship
+- 🔭 Currently working on : Learning Solidity and blockchain developement with Python and Rust | Coding a website using Astro for internship
