@@ -6,4 +6,4 @@ I'm a 20 year old third-year student at University of Paris 1 Panthéon-Sorbonne
 
 
 - 📫 Reach me on discord : jadisworried
-- 🔭 Currently working on : Learning Solidity and blockchain developement with Python and Rust | PowerBI Embedded Web application for Java for internship
+- 🔭 Currently working on : Learning Solidity and blockchain developement with Python and Rust | Learning distributed computing 
