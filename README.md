@@ -1,9 +1,10 @@
-### Hi, my name is Jad L👋
+### Hi, my name is Jad L
 
 ___
 
-I'm a 22 year old graduate in Computer Science based in France. The vast majority of my projects will be located here however some projects are stored in private repositories.
+I am a 23 year old IT Engineer based in France. I enjoy designing and building systems around DevOps, solution architecture, blockchain, and low level engineering. Most of my projects live here on GitHub, with a few others in private repositories.
 
+- 📫 Reach me by mail: **lebchiri.j@gmail.com**
+- 🔭 Currently working on: Building a three-tier webapp
+- 🌐 Interests: cloud infrastructure, distributed systems, blockchain architecture, and platform tooling
 
-- 📫 Reach me by mail : jadsup001@gmail.com
-- 🔭 Currently working on : Writing an OS using Rust
