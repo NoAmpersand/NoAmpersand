@@ -1,0 +1,130 @@
+<svg width="800" height="340" viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Jad L. — IT Engineer GitHub bio card</title>
+  <desc>GitHub profile bio card for Jad L., IT Engineer based in Paris, France.</desc>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;family=Syne:wght@400;700;800&amp;display=swap');
+      .syne { font-family: 'Syne', 'Arial Black', sans-serif; }
+      .mono { font-family: 'Space Mono', 'Courier New', monospace; }
+    </style>
+    <clipPath id="cc"><rect width="800" height="340" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cc)">
+    <!-- BG -->
+    <rect width="800" height="340" fill="#0b0b14"/>
+    <!-- top accent -->
+    <rect width="800" height="3" fill="#6366f1"/>
+    <!-- vertical divider -->
+    <rect x="510" y="0" width="1" height="340" fill="#181828"/>
+    <!-- horizontal footer divider -->
+    <rect x="0" y="298" width="800" height="1" fill="#181828"/>
+
+    <!-- ── LEFT PANEL ── -->
+
+    <!-- README label -->
+    <text x="36" y="36" class="mono" font-size="10" fill="#6366f1" letter-spacing="3" font-weight="700">README.MD</text>
+    <rect x="122" y="29" width="28" height="1" fill="#6366f1" opacity="0.5"/>
+
+    <!-- Name -->
+    <text x="36" y="84" class="syne" font-size="48" fill="#eeeeff" font-weight="800" letter-spacing="-1">Jad L<tspan fill="#6366f1">.</tspan></text>
+
+    <!-- Subtitle -->
+    <text x="36" y="108" class="mono" font-size="11" fill="#3a3a5c" letter-spacing="1">// IT Engineer — Paris, France</text>
+
+    <!-- accent line -->
+    <rect x="36" y="122" width="28" height="2" fill="#6366f1" rx="1"/>
+
+    <!-- Description -->
+    <text x="36" y="148" class="syne" font-size="13" fill="#7070a0">I build systems that <tspan fill="#d0d0ff" font-weight="700">scale, deploy, and don't break at 3am.</tspan></text>
+    <text x="36" y="168" class="syne" font-size="13" fill="#7070a0">Focused on DevOps, Azure, blockchain &amp; low-level engineering.</text>
+    <text x="36" y="188" class="syne" font-size="13" fill="#7070a0">Most of my work lives here — some in private repos.</text>
+
+    <!-- Currently on -->
+    <rect x="36" y="206" width="204" height="22" rx="4" fill="#0078d415" stroke="#0078d450" stroke-width="1"/>
+    <circle cx="50" cy="217" r="3.5" fill="#0078d4"/>
+    <text x="60" y="221" class="mono" font-size="9.5" fill="#4da6ff" letter-spacing="0.5">currently working on · Azure</text>
+
+    <!-- Tags -->
+    <!-- DEVOPS -->
+    <rect x="36" y="240" width="70" height="22" rx="3" fill="#0e0e20" stroke="#6366f1" stroke-width="1"/>
+    <text x="71" y="255" class="mono" font-size="8.5" fill="#a5b4fc" text-anchor="middle" letter-spacing="1">DEVOPS</text>
+
+    <!-- AZURE -->
+    <rect x="114" y="240" width="60" height="22" rx="3" fill="#0e0e20" stroke="#6366f1" stroke-width="1"/>
+    <text x="144" y="255" class="mono" font-size="8.5" fill="#a5b4fc" text-anchor="middle" letter-spacing="1">AZURE</text>
+
+    <!-- BLOCKCHAIN -->
+    <rect x="182" y="240" width="90" height="22" rx="3" fill="#0e0e20" stroke="#6366f1" stroke-width="1"/>
+    <text x="227" y="255" class="mono" font-size="8.5" fill="#a5b4fc" text-anchor="middle" letter-spacing="1">BLOCKCHAIN</text>
+
+    <!-- CLOUD INFRA -->
+    <rect x="280" y="240" width="90" height="22" rx="3" fill="#0e0e20" stroke="#6366f1" stroke-width="1"/>
+    <text x="325" y="255" class="mono" font-size="8.5" fill="#a5b4fc" text-anchor="middle" letter-spacing="1">CLOUD INFRA</text>
+
+    <!-- DISTRIBUTED SYSTEMS -->
+    <rect x="378" y="240" width="120" height="22" rx="3" fill="#0e0e20" stroke="#282840" stroke-width="1"/>
+    <text x="438" y="255" class="mono" font-size="8.5" fill="#404060" text-anchor="middle" letter-spacing="1">DISTRIBUTED SYS</text>
+
+    <!-- Footer left -->
+    <circle cx="44" cy="319" r="4" fill="#6366f1"/>
+    <text x="56" y="323" class="mono" font-size="11" fill="#6366f1">lebchiri.j@gmail.com</text>
+    <text x="474" y="323" class="mono" font-size="10" fill="#252540" text-anchor="end">48.8566° N, 2.3522° E</text>
+
+    <!-- ── RIGHT PANEL ── -->
+
+    <!-- TECH STACK label -->
+    <text x="530" y="36" class="mono" font-size="9" fill="#282840" letter-spacing="2">TECH STACK</text>
+
+    <!-- Java pill -->
+    <rect x="530" y="46" width="56" height="20" rx="10" fill="#1a120a" stroke="#ED8B0060" stroke-width="1"/>
+    <text x="558" y="60" class="mono" font-size="9" fill="#ED8B00" text-anchor="middle">Java</text>
+
+    <!-- TypeScript pill -->
+    <rect x="594" y="46" width="88" height="20" rx="10" fill="#0a0f1a" stroke="#3178C660" stroke-width="1"/>
+    <text x="638" y="60" class="mono" font-size="9" fill="#3178C6" text-anchor="middle">TypeScript</text>
+
+    <!-- Spring Boot pill -->
+    <rect x="530" y="74" width="88" height="20" rx="10" fill="#0a150a" stroke="#6DB33F60" stroke-width="1"/>
+    <text x="574" y="88" class="mono" font-size="9" fill="#6DB33F" text-anchor="middle">Spring Boot</text>
+
+    <!-- Azure pill -->
+    <rect x="626" y="74" width="56" height="20" rx="10" fill="#00070f" stroke="#0078D460" stroke-width="1"/>
+    <text x="654" y="88" class="mono" font-size="9" fill="#0078D4" text-anchor="middle">Azure</text>
+
+    <!-- Docker pill -->
+    <rect x="530" y="102" width="60" height="20" rx="10" fill="#00080f" stroke="#2496ED60" stroke-width="1"/>
+    <text x="560" y="116" class="mono" font-size="9" fill="#2496ED" text-anchor="middle">Docker</text>
+
+    <!-- Ansible pill -->
+    <rect x="598" y="102" width="64" height="20" rx="10" fill="#150000" stroke="#EE000060" stroke-width="1"/>
+    <text x="630" y="116" class="mono" font-size="9" fill="#EE0000" text-anchor="middle">Ansible</text>
+
+    <!-- Linux pill -->
+    <rect x="530" y="130" width="56" height="20" rx="10" fill="#0f0e00" stroke="#FCC62460" stroke-width="1"/>
+    <text x="558" y="144" class="mono" font-size="9" fill="#FCC624" text-anchor="middle">Linux</text>
+
+    <!-- Ethereum pill -->
+    <rect x="594" y="130" width="88" height="20" rx="10" fill="#0a0a14" stroke="#62688F60" stroke-width="1"/>
+    <text x="638" y="144" class="mono" font-size="9" fill="#8888bb" text-anchor="middle">Blockchain</text>
+
+    <!-- Divider -->
+    <rect x="530" y="162" width="240" height="1" fill="#181828"/>
+
+    <!-- Stats -->
+    <text x="530" y="194" class="syne" font-size="36" fill="#eeeeff" font-weight="800">23</text>
+    <text x="530" y="212" class="mono" font-size="8" fill="#282840" letter-spacing="2">YEARS OLD</text>
+
+    <text x="640" y="194" class="syne" font-size="36" fill="#6366f1" font-weight="800">∞</text>
+    <text x="640" y="212" class="mono" font-size="8" fill="#282840" letter-spacing="2">COFFEES</text>
+
+    <!-- Divider -->
+    <rect x="530" y="224" width="240" height="1" fill="#181828"/>
+
+    <!-- Interests -->
+    <text x="530" y="244" class="mono" font-size="8" fill="#282840" letter-spacing="2">INTERESTS</text>
+    <text x="530" y="262" class="syne" font-size="12" fill="#505080">Cloud · DevOps · Blockchain</text>
+    <text x="530" y="280" class="syne" font-size="12" fill="#505080">Distributed systems · Architecture</text>
+
+  </g>
+</svg>
