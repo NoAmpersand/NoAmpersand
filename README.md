@@ -1,5 +1,5 @@
 ### Hi, I'm Jad L.
-`Engineer · Paris, France`
+`Engineer · France`
 
 > I build systems that **scale, deploy, and don't break at 3am**.  
 > Focused on DevOps, solution architecture, blockchain & low-level engineering.  
