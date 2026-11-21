@@ -3,7 +3,7 @@
 
 > I like to learn things. 
 
-🔨 **Currently building:** Algorithm visualiazer.
+🔨 **Currently building:** Algorithm visualizer.
 
 ---
 
