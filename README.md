@@ -1,11 +1,9 @@
 ### Hi, I'm Jad L.
-`Engineer · France`
+`Curious! · France`
 
-> I build systems that **scale, deploy, and don't break at 3am**.  
-> Focused on DevOps, solution architecture, blockchain & low-level engineering.  
-> Most of my work lives here — some in private repos where things get interesting.
+> I like to learn things. 
 
-🔨 **Currently building:** three-tier webapp
+🔨 **Currently building:** Algorithm visualiazer.
 
 ---
 
